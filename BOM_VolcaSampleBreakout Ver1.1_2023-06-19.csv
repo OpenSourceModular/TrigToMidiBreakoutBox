@@ -1,0 +1,22 @@
+ID,Name,Designator,Footprint,Quantity,Price Each,Total,Tayda Part,Tayda Link
+1,10u,C4,CAP-D4.0×F1.5,1,$0.02,$0.02,A-3931,https://www.taydaelectronics.com/capacitors/electrolytic-capacitors/10uf-16v-85c-radial-electrolytic-capacitor.html
+2,ZD 3.3 v,D3,DO-41,1,$0.04,$0.04,A-164,https://www.taydaelectronics.com/diodes/zener/1n4728-zener-diode-1w-3-3v.html
+3,Pin Headers,Misc,HDR-F-2.54_1X4,1,$0.15,$0.15,A-197,https://www.taydaelectronics.com/40-pin-2-54-mm-single-row-pin-header-strip.html
+4,"3,5mm Mono Jack",J1-J12,THONKICONN,12,$0.23,$2.76,A-2563,https://www.taydaelectronics.com/hardware/3-5mm-plugs-jacks/pj-3001f-3-5-mm-mono-phone-jack.html
+5,10k Potentiometer,VR1,9MM PCB mount Potentiometer,1,$1.29,$1.29,A-1847,https://www.taydaelectronics.com/potentiometer-variable-resistors/rotary-potentiometer/linear/10k-ohm-linear-taper-potentiometer-round-shaft-pcb-9mm.html
+6,BC547CTFR,"Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11",TO-92-3_L4.8-W3.7-P2.54-L,11,$0.04,$0.44,A-137,https://www.taydaelectronics.com/bc547-transistor-npn-45v-0-1a.html
+7,10k,"R1,R4,R7,R10,R13,R16,R19,R22,R25,R28,R33",R_AXIAL-0.3,11,$0.02,$0.22,,https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html
+8,100k,"R2,R5,R8,R11,R14,R17,R20,R23,R26,R29,R31,R35",R_AXIAL-0.3,12,$0.02,$0.24,,https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html
+9,1M,"R3,R6,R9,R12,R15,R18,R21,R24,R27,R30,R32",R_AXIAL-0.3,11,$0.02,$0.22,,https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html
+10,220k,R34,R_AXIAL-0.3,1,$0.02,$0.02,,https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html
+11,33ohms,"R36,R39",R_AXIAL-0.3,2,$0.02,$0.04,,https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html
+12,10ohms,"R37,R38",R_AXIAL-0.3,2,$0.02,$0.04,,https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html
+13,1,"SW1,SW5",SLIDE SWITCH 1P2T THROUGH HOLE 0.5A 50VDC,2,$0.12,$0.24,A-5111,https://www.taydaelectronics.com/electromechanical/switches-key-pad/slide-switch/vertical-slide-switch-1p2t-through-hole-0-5a-50vdc.html
+14,T1,"TRSOUT1,TRSOUT2",3.5MM ENCLOSED STEREO SOCKET,2,$0.22,$0.44,A-6115,https://www.taydaelectronics.com/hardware/3-5mm-plugs-jacks/3-5mm-stereo-enclosed-socket.html
+15,USB Type B,USB1,USB TYPE B,1,$0.26,$0.26,A-437,https://www.taydaelectronics.com/usb-type-b-female-connector-dip.html
+16,RASPBERRY-PI-PICO (TH-NO-SWI),U1,RASPBERRY-PI-PICO,1,$5.00,$5.00,,"Get from amazon, ali.etc..."
+17,10mm M3 PCB Standoff,,,4,$0.10,$0.40,,"Get from amazon, ali.etc..."
+18,M3 Machine Screws,,,4,$0.05,$0.20,,"Get from amazon, ali.etc..."
+19,Micro USB Cable,,,1,$4.00,$4.00,,"Get from amazon, ali.etc..."
+20,3d Printed Case,,,1,?,,,Print yourself
+,,,,,,$16.02,,
